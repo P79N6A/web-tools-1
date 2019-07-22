@@ -1,6 +1,6 @@
 <template>
   <div class="cropper">
-    <h1>照片裁剪工具：裁剪出你需要的证件照尺寸。</h1>
+    <h3>照片裁剪工具：裁剪出你需要的证件照尺寸。</h3>
     <el-select
       v-model="value"
       placeholder="请选择"

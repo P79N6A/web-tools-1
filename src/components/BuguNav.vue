@@ -1,7 +1,5 @@
 <template>
   <div class="bugu-nav-wrapper">
-        <router-link to="/">Home</router-link>
-        <router-link to="/cropper">Cropper</router-link>
     <el-menu
       :default-active="activeIndex"
       class="bugu-nav"
